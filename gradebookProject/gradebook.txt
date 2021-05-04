@@ -1,5 +1,9 @@
-Jon Jones,100,100,98
-Kimmy Lee,100,100,98
-Napal Raul,89,100,76
-Henrrietta James,98,65,99
-Hailet Forscythe,100,87,57
+Jon,100,100,98
+Kimmy,100,100,98
+Napal,89,100,76
+Henrietta,98,65,99
+Hailey,100,87,57
+Tim,100,78,98,45,87
+Ben,55,90,100,100,77
+Noah,88,100,100,98,100
+Sukjin,100,100,100,100,100
