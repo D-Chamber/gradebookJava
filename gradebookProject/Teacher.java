@@ -2,7 +2,7 @@
 import java.util.Scanner;
 public class Teacher{
 
-    public static void main(String[] args) {
+    public Teacher() {
         System.out.println("Enter the number of grades that are going to be calculated of that subject: "); //input 
         Scanner scanner = new Scanner(System.in);
         int cla = scanner.nextInt();

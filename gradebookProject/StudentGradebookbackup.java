@@ -1,9 +1,9 @@
 import java.io.*;
 import java.util.*;
 
-public class StudentGradebook {
+public class StudentGradebookbackup {
 
-    public StudentGradebook() throws IOException {
+    public static void main(String[] args) throws IOException {
         String filename = "gradebookJava/gradebookProject/gradebook.txt"; // filename path
 
         Scanner user = new Scanner(System.in); // user input initializing
